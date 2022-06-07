@@ -1,3 +1,3 @@
-class Spiderman(){}
+class Spiderman{}
 
 module.exports = Spiderman
