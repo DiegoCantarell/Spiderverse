@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoCantarell/Spiderverse/issues"
   },
-  "homepage": "https://github.com/DiegoCantarell/Spiderverse#readme"
+  "homepage": "https://github.com/DiegoCantarell/Spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
 }
